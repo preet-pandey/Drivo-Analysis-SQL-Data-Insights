@@ -1,10 +1,6 @@
 # Drivo-Analysis-SQL-Data-Insights
 SQL project analyzing data from the Drivo platform to uncover insights and support decision-making.
 
-# 🚗 Drivo Analysis – SQL Data Insights
-
-This project dives deep into the Drivo platform data using SQL. It involves data cleaning, exploratory analysis, and generating valuable insights to improve operational efficiency and customer satisfaction.
-
 ## 📊 Tools Used
 - MySQL
 
